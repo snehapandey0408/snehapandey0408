@@ -1,41 +1,66 @@
-# Hi, I'm Sneha 👋
+<p align="center">
+  <img src="https://github.com/snehapandey0408/snehapandey0408/blob/main/banner.gif" alt="Banner" width="100%">
+</p>
 
-🌱 Passionate about AI/ML, Signal Processing & Computer Vision  
-📍 India · [LinkedIn]([(https://www.linkedin.com/in/snehapandey0408/)])
-
----
-
-### 🔧 Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+# Hi, I'm Sneha Pandey 👋  
+💡 Final-year student at VIT Chennai · QA Intern @ Airspan  
+🌱 Passionate about **AI/ML**, **Signal Processing** & **Computer Vision**  
+📍 India · [LinkedIn](https://www.linkedin.com/in/sneha-pandey-b01003222)
 
 ---
 
-### 📌 Featured Projects  
+### 🔮 Skills & Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Featured Projects  
 
 - [🚨 Sewer Gas Management System](https://github.com/snehapandey0408/Sewer-gas-management-system)  
-  IoT-based system that detects toxic gases and sends SMS alerts using ThingSpeak & Twilio.
+  IoT system detecting toxic gases and sending SMS alerts via **ThingSpeak** & **Twilio**.
 
 - [🚗 Car Number Plate Detection](https://github.com/snehapandey0408/Car-number-plate-detection)  
-  MATLAB project for license plate detection and recognition.
+  License plate detection with **MATLAB**.
 
 - [🗄️ Extracting SQL Data with Python](https://github.com/snehapandey0408/Using-python-extracting-SQL-data)  
-  Simple ETL pipeline using Python scripts to connect and pull data from SQL databases.
+  ETL pipeline connecting Python scripts with SQL databases.
+
+- [📱 Chatbot](https://github.com/snehapandey0408/Chatbot)  
+  Conversational AI chatbot using NLP.
+
+- [🎮 Snake Game](https://github.com/snehapandey0408/Snake-game)  
+  Classic Snake game built in **Python** with **Pygame**.
+
+- [📊 Movie Recommendation System](https://github.com/snehapandey0408/Movie-Recommendation-System)  
+  Collaborative filtering-based recommendation system.
 
 ---
 
 ### 📊 GitHub Stats  
 
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehapandey0408&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehapandey0408&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehapandey0408&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehapandey0408&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### 📫 Contact  
-- LinkedIn: [snehapandey0408](https://www.linkedin.com/in/snehapandey0408/)  
-- Email: **snehapandeyy8@gmail.com** _(replace with your real email or leave out if you prefer)_  
-
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sneha-pandey-b01003222">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
